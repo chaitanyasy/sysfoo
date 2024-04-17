@@ -29,7 +29,7 @@ pipeline {
 
         stage('test-sub2') {
           steps {
-            sleep 2
+            sleep 200
           }
         }
 
